@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/ManikandanMohanS/leetcode/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ManikandanMohanS/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Recursion
 |  |
 | ------- |
