@@ -45,4 +45,12 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/ManikandanMohanS/leetcode/tree/master/0401-binary-watch) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ManikandanMohanS/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ManikandanMohanS/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
