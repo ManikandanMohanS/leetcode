@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManikandanMohanS/leetcode/tree/master/0020-valid-parentheses) |
+| [1660-thousand-separator](https://github.com/ManikandanMohanS/leetcode/tree/master/1660-thousand-separator) |
 ## Stack
 |  |
 | ------- |
