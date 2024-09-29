@@ -7,6 +7,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManikandanMohanS/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Greedy
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/ManikandanMohanS/leetcode/tree/master/1642-water-bottles) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2645-pass-the-pillow](https://github.com/ManikandanMohanS/leetcode/tree/master/2645-pass-the-pillow) |
 ## Number Theory
 |  |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
