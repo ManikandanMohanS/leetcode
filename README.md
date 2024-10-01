@@ -8,6 +8,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanMohanS/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/ManikandanMohanS/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
+| [1677-matrix-diagonal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Greedy
@@ -90,6 +91,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1677-matrix-diagonal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
