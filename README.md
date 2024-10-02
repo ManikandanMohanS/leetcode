@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ManikandanMohanS/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManikandanMohanS/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanMohanS/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ManikandanMohanS/leetcode/tree/master/0169-majority-element) |
@@ -21,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ManikandanMohanS/leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/ManikandanMohanS/leetcode/tree/master/0342-power-of-four) |
 | [1031-add-to-array-form-of-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/1031-add-to-array-form-of-integer) |
