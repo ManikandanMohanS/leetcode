@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManikandanMohanS/leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0058-length-of-last-word) |
 | [1660-thousand-separator](https://github.com/ManikandanMohanS/leetcode/tree/master/1660-thousand-separator) |
 | [1894-merge-strings-alternately](https://github.com/ManikandanMohanS/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManikandanMohanS/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
