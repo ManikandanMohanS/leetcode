@@ -32,6 +32,7 @@
 | [0007-reverse-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ManikandanMohanS/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ManikandanMohanS/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/ManikandanMohanS/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/ManikandanMohanS/leetcode/tree/master/0342-power-of-four) |
 | [1031-add-to-array-form-of-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -60,6 +61,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ManikandanMohanS/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ManikandanMohanS/leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/ManikandanMohanS/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ManikandanMohanS/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -67,6 +69,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ManikandanMohanS/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ManikandanMohanS/leetcode/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
