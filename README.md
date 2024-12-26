@@ -49,6 +49,7 @@
 | [2481-strictly-palindromic-number](https://github.com/ManikandanMohanS/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ManikandanMohanS/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2645-pass-the-pillow](https://github.com/ManikandanMohanS/leetcode/tree/master/2645-pass-the-pillow) |
+| [2812-find-the-maximum-achievable-number](https://github.com/ManikandanMohanS/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Simulation
 |  |
 | ------- |
