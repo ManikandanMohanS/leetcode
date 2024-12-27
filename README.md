@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [1635-number-of-good-pairs](https://github.com/ManikandanMohanS/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/ManikandanMohanS/leetcode/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/ManikandanMohanS/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/ManikandanMohanS/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ManikandanMohanS/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -185,6 +187,7 @@
 | [0169-majority-element](https://github.com/ManikandanMohanS/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting
 |  |
 | ------- |
