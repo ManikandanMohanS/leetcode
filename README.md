@@ -26,6 +26,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ManikandanMohanS/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ManikandanMohanS/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ManikandanMohanS/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -79,6 +80,7 @@
 | [1642-water-bottles](https://github.com/ManikandanMohanS/leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/ManikandanMohanS/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ManikandanMohanS/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2645-pass-the-pillow](https://github.com/ManikandanMohanS/leetcode/tree/master/2645-pass-the-pillow) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
@@ -120,6 +122,7 @@
 | [1660-thousand-separator](https://github.com/ManikandanMohanS/leetcode/tree/master/1660-thousand-separator) |
 | [1894-merge-strings-alternately](https://github.com/ManikandanMohanS/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManikandanMohanS/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ManikandanMohanS/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3567-convert-date-to-binary](https://github.com/ManikandanMohanS/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
