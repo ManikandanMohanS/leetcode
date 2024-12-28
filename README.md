@@ -46,6 +46,7 @@
 | [0231-power-of-two](https://github.com/ManikandanMohanS/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/ManikandanMohanS/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/ManikandanMohanS/leetcode/tree/master/0342-power-of-four) |
 | [1031-add-to-array-form-of-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/ManikandanMohanS/leetcode/tree/master/1086-divisor-game) |
@@ -131,11 +132,13 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ManikandanMohanS/leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/ManikandanMohanS/leetcode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/ManikandanMohanS/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ManikandanMohanS/leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/ManikandanMohanS/leetcode/tree/master/1086-divisor-game) |
 ## Tree
 |  |
