@@ -5,7 +5,7 @@ class Solution {
             if(s.charAt(1) == '-') 
             x--;
             else
-            x++;
+             ++x;
         return x;
     }
 }
