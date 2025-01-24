@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ManikandanMohanS/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0861-flipping-an-image](https://github.com/ManikandanMohanS/leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ManikandanMohanS/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ManikandanMohanS/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManikandanMohanS/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ManikandanMohanS/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
