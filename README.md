@@ -19,6 +19,7 @@
 | [0861-flipping-an-image](https://github.com/ManikandanMohanS/leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
 | [1031-add-to-array-form-of-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ManikandanMohanS/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ManikandanMohanS/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -54,6 +55,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/ManikandanMohanS/leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ManikandanMohanS/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ManikandanMohanS/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1610-xor-operation-in-an-array) |
