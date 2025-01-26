@@ -117,6 +117,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ManikandanMohanS/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ManikandanMohanS/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ManikandanMohanS/leetcode/tree/master/0342-power-of-four) |
 ## Backtracking
@@ -228,4 +229,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ManikandanMohanS/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
