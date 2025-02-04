@@ -73,6 +73,7 @@
 | [2383-add-two-integers](https://github.com/ManikandanMohanS/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/ManikandanMohanS/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ManikandanMohanS/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/ManikandanMohanS/leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/ManikandanMohanS/leetcode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ManikandanMohanS/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/ManikandanMohanS/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/ManikandanMohanS/leetcode/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,4 +258,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/ManikandanMohanS/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
