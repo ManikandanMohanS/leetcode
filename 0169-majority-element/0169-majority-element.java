@@ -1,6 +1,6 @@
 class Solution {
     public int majorityElement(int[] nums) {
-    int currentElement=nums[0];
+            int currentElement=nums[0];
     int count=1;
 
 
