@@ -25,6 +25,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ManikandanMohanS/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ManikandanMohanS/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -251,4 +252,8 @@
 | [0908-middle-of-the-linked-list](https://github.com/ManikandanMohanS/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ManikandanMohanS/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/ManikandanMohanS/leetcode/tree/master/2411-spiral-matrix-iv) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
