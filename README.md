@@ -58,6 +58,7 @@
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ManikandanMohanS/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/ManikandanMohanS/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/ManikandanMohanS/leetcode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/ManikandanMohanS/leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ManikandanMohanS/leetcode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/ManikandanMohanS/leetcode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/ManikandanMohanS/leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/ManikandanMohanS/leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -140,6 +142,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManikandanMohanS/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/ManikandanMohanS/leetcode/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/ManikandanMohanS/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1660-thousand-separator](https://github.com/ManikandanMohanS/leetcode/tree/master/1660-thousand-separator) |
 | [1894-merge-strings-alternately](https://github.com/ManikandanMohanS/leetcode/tree/master/1894-merge-strings-alternately) |
