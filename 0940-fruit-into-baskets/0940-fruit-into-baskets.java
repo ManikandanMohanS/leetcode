@@ -1,7 +1,6 @@
-
-
 class Solution {
     public int totalFruit(int[] fruits) {
+      
         HashMap<Integer, Integer> fruitCount = new HashMap<>();
         int left = 0, maxFruits = 0;
 
@@ -21,4 +20,5 @@ class Solution {
 
         return maxFruits;
     }
+    
 }
