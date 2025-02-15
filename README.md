@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ManikandanMohanS/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0861-flipping-an-image](https://github.com/ManikandanMohanS/leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/ManikandanMohanS/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -52,6 +53,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Math
@@ -207,6 +209,7 @@
 | [0088-merge-sorted-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanMohanS/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0189-rotate-array) |
+| [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0861-flipping-an-image](https://github.com/ManikandanMohanS/leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/ManikandanMohanS/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/ManikandanMohanS/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -218,6 +221,7 @@
 | [0069-sqrtx](https://github.com/ManikandanMohanS/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanMohanS/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -248,6 +252,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ManikandanMohanS/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting
