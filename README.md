@@ -9,6 +9,7 @@
 | [0054-spiral-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ManikandanMohanS/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ManikandanMohanS/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ManikandanMohanS/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ManikandanMohanS/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManikandanMohanS/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ManikandanMohanS/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0861-flipping-an-image](https://github.com/ManikandanMohanS/leetcode/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManikandanMohanS/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/ManikandanMohanS/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ManikandanMohanS/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0229-majority-element-ii) |
