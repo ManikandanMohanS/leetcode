@@ -1,12 +1,15 @@
 class Solution {
     public int distributeCandies(int n, int limit) {
-               if (n > 3 * limit)    return 0;
-        long ans = comb2(n + 2);
-        if (n > limit)   ans -= 3 * comb2(n - limit + 1);
-        if (n - 2 >= 2 * limit)   ans += 3 * comb2(n - 2 * limit);
-        return (int) ans;
-    }
-    private long comb2(int n) {
-        return 1L * n * (n - 1) / 2;
+           int count=0,sum=0;
+        for(int x=0;x<=limit;x++){
+            for( int y=0;y<=limit;y++){
+                for(int z=0;z<=limit;z++){
+                    sum=x+y+z;
+                    if(sum==n){
+                        count++;
+                    }
+                }
+            }
+        }return count;
     }
 }
