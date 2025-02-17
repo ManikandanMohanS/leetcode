@@ -22,6 +22,7 @@ class Solution {
         }
 
 
+
         for(int i=0;i<n;i++)
         {
             if(arr[i] < leftMax[i]&& arr[i] < rightMax[i])
