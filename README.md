@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/ManikandanMohanS/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManikandanMohanS/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/ManikandanMohanS/leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanMohanS/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ManikandanMohanS/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ManikandanMohanS/leetcode/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
