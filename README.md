@@ -350,4 +350,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManikandanMohanS/leetcode/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ManikandanMohanS/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
