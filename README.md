@@ -73,6 +73,7 @@
 | [0007-reverse-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ManikandanMohanS/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ManikandanMohanS/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ManikandanMohanS/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ManikandanMohanS/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/0258-add-digits) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManikandanMohanS/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ManikandanMohanS/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManikandanMohanS/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1086-divisor-game](https://github.com/ManikandanMohanS/leetcode/tree/master/1086-divisor-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManikandanMohanS/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -362,4 +364,8 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/ManikandanMohanS/leetcode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ManikandanMohanS/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ManikandanMohanS/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
