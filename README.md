@@ -49,6 +49,7 @@
 | [1635-number-of-good-pairs](https://github.com/ManikandanMohanS/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ManikandanMohanS/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ManikandanMohanS/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManikandanMohanS/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -189,6 +190,7 @@
 | [1205-defanging-an-ip-address](https://github.com/ManikandanMohanS/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/ManikandanMohanS/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1660-thousand-separator](https://github.com/ManikandanMohanS/leetcode/tree/master/1660-thousand-separator) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ManikandanMohanS/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/ManikandanMohanS/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManikandanMohanS/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManikandanMohanS/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
