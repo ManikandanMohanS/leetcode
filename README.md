@@ -81,6 +81,7 @@
 | [0258-add-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ManikandanMohanS/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/ManikandanMohanS/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManikandanMohanS/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/ManikandanMohanS/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1013-fibonacci-number) |
@@ -166,6 +167,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ManikandanMohanS/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ManikandanMohanS/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ManikandanMohanS/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ManikandanMohanS/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManikandanMohanS/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
