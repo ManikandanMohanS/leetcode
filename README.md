@@ -185,6 +185,7 @@
 | [0058-length-of-last-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/ManikandanMohanS/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/ManikandanMohanS/leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -256,6 +257,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanMohanS/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0861-flipping-an-image](https://github.com/ManikandanMohanS/leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/ManikandanMohanS/leetcode/tree/master/0908-middle-of-the-linked-list) |
