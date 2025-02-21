@@ -185,6 +185,7 @@
 | [0344-reverse-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ManikandanMohanS/leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0782-jewels-and-stones](https://github.com/ManikandanMohanS/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/ManikandanMohanS/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/ManikandanMohanS/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1660-thousand-separator](https://github.com/ManikandanMohanS/leetcode/tree/master/1660-thousand-separator) |
@@ -280,6 +281,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikandanMohanS/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ManikandanMohanS/leetcode/tree/master/0575-distribute-candies) |
+| [0782-jewels-and-stones](https://github.com/ManikandanMohanS/leetcode/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/ManikandanMohanS/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1635-number-of-good-pairs](https://github.com/ManikandanMohanS/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManikandanMohanS/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
