@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ManikandanMohanS/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ManikandanMohanS/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ManikandanMohanS/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ManikandanMohanS/leetcode/tree/master/0066-plus-one) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManikandanMohanS/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ManikandanMohanS/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ManikandanMohanS/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManikandanMohanS/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ManikandanMohanS/leetcode/tree/master/0392-is-subsequence) |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManikandanMohanS/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ManikandanMohanS/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ManikandanMohanS/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
