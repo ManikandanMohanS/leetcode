@@ -16,5 +16,19 @@ class Solution {
 
         // If LCS length equals s.length(), then s is a subsequence of t
         return dp[m][n] == m;
+
+
+        /*
+          int i = 0; 
+        int j = 0;
+        while(i<s.length() && j<t.length()){
+            if(s.charAt(i) == t.charAt(j)){
+                i++;
+                j++;
+            }else{
+                j++;
+            }
+        }
+        return (i == s.length());*/
     }
 }
