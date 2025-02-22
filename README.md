@@ -200,6 +200,7 @@
 | [0412-fizz-buzz](https://github.com/ManikandanMohanS/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ManikandanMohanS/leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/ManikandanMohanS/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/ManikandanMohanS/leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/ManikandanMohanS/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ManikandanMohanS/leetcode/tree/master/0782-jewels-and-stones) |
@@ -410,4 +411,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ManikandanMohanS/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1013-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/ManikandanMohanS/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
