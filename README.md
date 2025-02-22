@@ -32,6 +32,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ManikandanMohanS/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ManikandanMohanS/leetcode/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
+| [0724-find-pivot-index](https://github.com/ManikandanMohanS/leetcode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/ManikandanMohanS/leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/ManikandanMohanS/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -364,6 +365,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ManikandanMohanS/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikandanMohanS/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ManikandanMohanS/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManikandanMohanS/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
