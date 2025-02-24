@@ -23,7 +23,7 @@ class Solution {
                 maxYear = i;
             }
         }
-        
+       // System.out.println(Arrays.toString(year));
         return maxYear;
     }
 }
