@@ -52,6 +52,7 @@
 | [1646-kth-missing-positive-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ManikandanMohanS/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1833-find-the-highest-altitude](https://github.com/ManikandanMohanS/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ManikandanMohanS/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManikandanMohanS/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -374,6 +375,7 @@
 | [0724-find-pivot-index](https://github.com/ManikandanMohanS/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/ManikandanMohanS/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManikandanMohanS/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Enumeration
 |  |
