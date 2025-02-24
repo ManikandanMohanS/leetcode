@@ -56,6 +56,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ManikandanMohanS/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManikandanMohanS/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/ManikandanMohanS/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1839-decode-xored-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ManikandanMohanS/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManikandanMohanS/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/ManikandanMohanS/leetcode/tree/master/1944-truncate-sentence) |
@@ -178,6 +179,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ManikandanMohanS/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManikandanMohanS/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1839-decode-xored-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1839-decode-xored-array) |
 ## Recursion
 |  |
 | ------- |
