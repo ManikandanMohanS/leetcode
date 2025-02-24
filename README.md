@@ -40,6 +40,7 @@
 | [0941-sort-array-by-parity](https://github.com/ManikandanMohanS/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1127-last-stone-weight](https://github.com/ManikandanMohanS/leetcode/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ManikandanMohanS/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -80,6 +81,7 @@
 | [0135-candy](https://github.com/ManikandanMohanS/leetcode/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Math
 |  |
