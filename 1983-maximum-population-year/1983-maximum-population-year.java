@@ -10,7 +10,7 @@ class Solution {
             year[log[0]] += 1;
             year[log[1]] -= 1;
         }
-        
+       // System.out.println(Arrays.toString(year));
         int maxNum = year[1950], maxYear = 1950;
         
 		// O(100) -> 2050 - 1950 = 100
