@@ -64,6 +64,7 @@
 | [1944-truncate-sentence](https://github.com/ManikandanMohanS/leetcode/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1983-maximum-population-year](https://github.com/ManikandanMohanS/leetcode/tree/master/1983-maximum-population-year) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ManikandanMohanS/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/ManikandanMohanS/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -116,6 +117,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ManikandanMohanS/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/ManikandanMohanS/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ManikandanMohanS/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/ManikandanMohanS/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/ManikandanMohanS/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -185,6 +187,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManikandanMohanS/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1839-decode-xored-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ManikandanMohanS/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 | [0039-combination-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0040-combination-sum-ii) |
 | [0401-binary-watch](https://github.com/ManikandanMohanS/leetcode/tree/master/0401-binary-watch) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ManikandanMohanS/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -401,6 +405,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ManikandanMohanS/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2507-number-of-common-factors](https://github.com/ManikandanMohanS/leetcode/tree/master/2507-number-of-common-factors) |
 | [3199-distribute-candies-among-children-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -426,6 +431,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ManikandanMohanS/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3199-distribute-candies-among-children-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Monotonic Stack
