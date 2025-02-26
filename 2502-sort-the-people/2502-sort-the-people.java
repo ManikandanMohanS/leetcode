@@ -16,11 +16,12 @@ class Solution {
                }
            }
       }
-      String result[]=new String[names.length];
-for(int i=0;i<names.length;i++){
-   result[i]=names[names.length-1-i];
 
-}
+
+      String result[]=new String[names.length];
+     for(int i=0;i<names.length;i++){
+         result[i]=names[names.length-1-i];
+         }
 
 return result;
     }
