@@ -227,6 +227,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ManikandanMohanS/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/ManikandanMohanS/leetcode/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/ManikandanMohanS/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ManikandanMohanS/leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0837-most-common-word) |
@@ -301,6 +302,7 @@
 | [0344-reverse-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ManikandanMohanS/leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0861-flipping-an-image](https://github.com/ManikandanMohanS/leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/ManikandanMohanS/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -335,6 +337,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ManikandanMohanS/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/ManikandanMohanS/leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/ManikandanMohanS/leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0837-most-common-word) |
@@ -425,6 +428,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ManikandanMohanS/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ManikandanMohanS/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/ManikandanMohanS/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
