@@ -76,6 +76,7 @@
 | [2411-spiral-matrix-iv](https://github.com/ManikandanMohanS/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/ManikandanMohanS/leetcode/tree/master/2502-sort-the-people) |
+| [2551-apply-operations-to-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ManikandanMohanS/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -158,6 +159,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManikandanMohanS/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ManikandanMohanS/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/ManikandanMohanS/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2551-apply-operations-to-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/ManikandanMohanS/leetcode/tree/master/2645-pass-the-pillow) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
@@ -311,6 +313,7 @@
 | [1894-merge-strings-alternately](https://github.com/ManikandanMohanS/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ManikandanMohanS/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/ManikandanMohanS/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2551-apply-operations-to-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
