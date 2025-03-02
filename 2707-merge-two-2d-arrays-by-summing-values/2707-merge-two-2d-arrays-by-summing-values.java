@@ -27,12 +27,12 @@ Map<Integer, Integer> sortedMap = new TreeMap<>(map);
         return array;
     }
      public static int[][] convertMapTo2DArray(Map<Integer, Integer> map) {
-        int[][] array = new int[map.size()][2]; // Create 2D array
+        int[][] array = new int[map.size()][2]; 
         int index = 0;
 
         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            array[index][0] = entry.getKey();   // Store key in column 0
-            array[index][1] = entry.getValue(); // Store value in column 1
+            array[index][0] = entry.getKey();   
+            array[index][1] = entry.getValue(); 
             index++;
         }
 
