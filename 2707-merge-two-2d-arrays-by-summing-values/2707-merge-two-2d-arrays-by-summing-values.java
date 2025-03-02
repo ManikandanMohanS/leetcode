@@ -20,6 +20,7 @@ class Solution {
                      }
             
         }
+        
 Map<Integer, Integer> sortedMap = new TreeMap<>(map);
         int[][] array = convertMapTo2DArray(sortedMap);
 
