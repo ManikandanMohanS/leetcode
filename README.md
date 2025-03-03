@@ -80,6 +80,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ManikandanMohanS/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2714-left-and-right-sum-differences](https://github.com/ManikandanMohanS/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ManikandanMohanS/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ManikandanMohanS/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -426,6 +427,7 @@
 | [1833-find-the-highest-altitude](https://github.com/ManikandanMohanS/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManikandanMohanS/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1983-maximum-population-year](https://github.com/ManikandanMohanS/leetcode/tree/master/1983-maximum-population-year) |
+| [2714-left-and-right-sum-differences](https://github.com/ManikandanMohanS/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Enumeration
 |  |
 | ------- |
