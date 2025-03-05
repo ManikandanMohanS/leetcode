@@ -81,6 +81,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ManikandanMohanS/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/ManikandanMohanS/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/ManikandanMohanS/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ManikandanMohanS/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ManikandanMohanS/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
