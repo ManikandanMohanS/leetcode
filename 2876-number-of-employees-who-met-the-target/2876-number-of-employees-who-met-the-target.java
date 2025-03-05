@@ -4,9 +4,7 @@ class Solution {
        for(int i=0;i<hours.length;i++) {
         if(hours[i]>= target){
             goodEmploy++;
-
-
-        }
+         }
        }
         return   goodEmploy;
 
