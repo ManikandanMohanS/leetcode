@@ -3,10 +3,10 @@ class Solution {
        if(n==1)
             return 1l;
         long result=1;
-        long i=1;
+        long i=n-1;
         while(n>1){
             result+=(i*4l);
-            i++;
+            i--;
             n--;
         }
         return result;
