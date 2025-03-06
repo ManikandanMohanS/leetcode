@@ -86,6 +86,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/ManikandanMohanS/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ManikandanMohanS/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/ManikandanMohanS/leetcode/tree/master/3226-minimum-number-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/ManikandanMohanS/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ManikandanMohanS/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ManikandanMohanS/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -148,6 +149,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ManikandanMohanS/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/ManikandanMohanS/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ManikandanMohanS/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/ManikandanMohanS/leetcode/tree/master/3567-convert-date-to-binary) |
@@ -307,6 +309,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManikandanMohanS/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/ManikandanMohanS/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -371,6 +374,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ManikandanMohanS/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/ManikandanMohanS/leetcode/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ManikandanMohanS/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/ManikandanMohanS/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ManikandanMohanS/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
