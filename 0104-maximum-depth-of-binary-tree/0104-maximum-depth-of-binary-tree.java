@@ -19,16 +19,16 @@ class Solution {
        calHeight(root, 1);
       return result;
      }
-    public void calHeight (TreeNode root, int length)
+    public void calHeight (TreeNode root, int curLength)
     {
       if(root==null) 
          return;
 
-      if(result <length)
+      if(result <curLength)
       {
        result++;
       }
-      calHeight(root. left, length+1);
-      calHeight(root.right, length+1);
+      calHeight(root. left, curLength+1);
+      calHeight(root.right, curLength+1);
     }
 }
