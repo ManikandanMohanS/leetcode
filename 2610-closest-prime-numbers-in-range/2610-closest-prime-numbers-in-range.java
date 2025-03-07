@@ -18,11 +18,8 @@ class Solution {
     }
 }
         int[] arr = prime.stream().mapToInt(Integer::intValue).toArray();
-          int  result[]=new int[2];
         if(arr.length<2){
-            result[0]=-1;
-            result[1]=-1;
-         return result;
+            
         }
         int ans[]=new int[arr.length-1];
         for(int i=0;i<ans.length;i++){
@@ -43,7 +40,7 @@ class Solution {
            }
              }
 
- 
+   int  result[]=new int[2];
       if(ansindex==-1){
             result[0]=-1;
             result[1]=-1;
