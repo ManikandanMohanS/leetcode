@@ -20,7 +20,7 @@ class Solution {
         int[] arr = prime.stream().mapToInt(Integer::intValue).toArray();
           int  result[]=new int[2];
         if(arr.length<2){
-  result[0]=-1;
+            result[0]=-1;
             result[1]=-1;
          return result;
         }
