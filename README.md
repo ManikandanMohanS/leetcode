@@ -141,6 +141,7 @@
 | [2507-number-of-common-factors](https://github.com/ManikandanMohanS/leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/ManikandanMohanS/leetcode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ManikandanMohanS/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/ManikandanMohanS/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/ManikandanMohanS/leetcode/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ManikandanMohanS/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -183,6 +184,7 @@
 | [0258-add-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/ManikandanMohanS/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ManikandanMohanS/leetcode/tree/master/2507-number-of-common-factors) |
+| [2610-closest-prime-numbers-in-range](https://github.com/ManikandanMohanS/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
