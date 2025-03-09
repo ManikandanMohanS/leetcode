@@ -88,6 +88,7 @@
 | [3226-minimum-number-game](https://github.com/ManikandanMohanS/leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/ManikandanMohanS/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ManikandanMohanS/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-alternating-groups-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ManikandanMohanS/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Greedy
@@ -510,6 +511,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManikandanMohanS/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ManikandanMohanS/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3483-alternating-groups-ii) |
 ## Queue
 |  |
 | ------- |
