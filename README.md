@@ -254,6 +254,7 @@
 | [0837-most-common-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0837-most-common-word) |
 | [1205-defanging-an-ip-address](https://github.com/ManikandanMohanS/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/ManikandanMohanS/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManikandanMohanS/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1660-thousand-separator](https://github.com/ManikandanMohanS/leetcode/tree/master/1660-thousand-separator) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ManikandanMohanS/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManikandanMohanS/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -408,6 +409,7 @@
 | [0782-jewels-and-stones](https://github.com/ManikandanMohanS/leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/ManikandanMohanS/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManikandanMohanS/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ManikandanMohanS/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManikandanMohanS/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -511,6 +513,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ManikandanMohanS/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/ManikandanMohanS/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManikandanMohanS/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManikandanMohanS/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ManikandanMohanS/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3483-alternating-groups-ii) |
