@@ -46,6 +46,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1127-last-stone-weight](https://github.com/ManikandanMohanS/leetcode/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ManikandanMohanS/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ManikandanMohanS/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ManikandanMohanS/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -388,6 +389,7 @@
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ManikandanMohanS/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
