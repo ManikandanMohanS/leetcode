@@ -80,6 +80,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/ManikandanMohanS/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/ManikandanMohanS/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2478-longest-nice-subarray](https://github.com/ManikandanMohanS/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2502-sort-the-people](https://github.com/ManikandanMohanS/leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -219,6 +220,7 @@
 | [1839-decode-xored-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ManikandanMohanS/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ManikandanMohanS/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/ManikandanMohanS/leetcode/tree/master/2478-longest-nice-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -532,6 +534,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManikandanMohanS/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManikandanMohanS/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ManikandanMohanS/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/ManikandanMohanS/leetcode/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Queue
