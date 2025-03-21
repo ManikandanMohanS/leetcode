@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManikandanMohanS/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManikandanMohanS/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0039-combination-sum) |
@@ -370,6 +371,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ManikandanMohanS/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ManikandanMohanS/leetcode/tree/master/0075-sort-colors) |
@@ -452,6 +454,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ManikandanMohanS/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ManikandanMohanS/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0088-merge-sorted-array) |
