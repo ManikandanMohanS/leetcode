@@ -8,7 +8,8 @@ class Solution {
 
         for(int j=0 ; j < nums.length ; j++){
             sum -= nums[j];
-            if(sum == temp)return j;
+            if(sum == temp)
+               return j;
             temp += nums[j];
         }
         return -1;
