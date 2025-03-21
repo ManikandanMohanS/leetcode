@@ -1,22 +1,24 @@
 class NumArray {
-    private int[] prefix; // Declare the prefix array
+
+    int prefix[];
 
     public NumArray(int[] nums) {
-        int n = nums.length;
-        if (n == 0) return; // Handle edge case where nums is empty
-        
-        prefix = new int[n]; // Initialize the prefix array
+        prefix= new int[nums.length];
         prefix[0] = nums[0];
-        for (int i = 1; i < n; i++)
-            prefix[i] = prefix[i - 1] + nums[i];
+        for(int i=1;i<nums.length;i++){
+            prefix[i] = nums[i] +prefix[i-1 ];
+        } 
+        this.prefix=prefix;
     }
 
-    public int sumRange(int left, int right) {
-        if (left == 0) return prefix[right]; 
-        return prefix[right] - prefix[left - 1]; 
+    public int sumRange(int l, int r) {
+        if(l==0){
+            return prefix[r];
+        }
+        else
+        return prefix[r]-prefix[l-1];
     }
 }
-
 
 /**
  * Your NumArray object will be instantiated and called as such:
