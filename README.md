@@ -335,6 +335,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ManikandanMohanS/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0226-invert-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/ManikandanMohanS/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -346,6 +347,7 @@
 | [0112-path-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ManikandanMohanS/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0226-invert-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/ManikandanMohanS/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -601,11 +603,13 @@
 ## Union Find
 |  |
 | ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/ManikandanMohanS/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ManikandanMohanS/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ManikandanMohanS/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/ManikandanMohanS/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ManikandanMohanS/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Design
 |  |
