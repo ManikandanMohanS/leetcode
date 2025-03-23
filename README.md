@@ -270,6 +270,7 @@
 | [0392-is-subsequence](https://github.com/ManikandanMohanS/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ManikandanMohanS/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ManikandanMohanS/leetcode/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/ManikandanMohanS/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ManikandanMohanS/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/ManikandanMohanS/leetcode/tree/master/0520-detect-capital) |
@@ -439,6 +440,7 @@
 | [0242-valid-anagram](https://github.com/ManikandanMohanS/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ManikandanMohanS/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -556,6 +558,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ManikandanMohanS/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ManikandanMohanS/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ManikandanMohanS/leetcode/tree/master/0643-maximum-average-subarray-i) |
