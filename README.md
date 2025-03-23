@@ -45,6 +45,7 @@
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/ManikandanMohanS/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/ManikandanMohanS/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0965-unique-email-addresses](https://github.com/ManikandanMohanS/leetcode/tree/master/0965-unique-email-addresses) |
 | [1031-add-to-array-form-of-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -279,6 +280,7 @@
 | [0742-to-lower-case](https://github.com/ManikandanMohanS/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ManikandanMohanS/leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0837-most-common-word) |
+| [0965-unique-email-addresses](https://github.com/ManikandanMohanS/leetcode/tree/master/0965-unique-email-addresses) |
 | [1205-defanging-an-ip-address](https://github.com/ManikandanMohanS/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/ManikandanMohanS/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManikandanMohanS/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -451,6 +453,7 @@
 | [0782-jewels-and-stones](https://github.com/ManikandanMohanS/leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/ManikandanMohanS/leetcode/tree/master/0940-fruit-into-baskets) |
+| [0965-unique-email-addresses](https://github.com/ManikandanMohanS/leetcode/tree/master/0965-unique-email-addresses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManikandanMohanS/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ManikandanMohanS/leetcode/tree/master/1635-number-of-good-pairs) |
