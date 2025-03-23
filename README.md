@@ -58,6 +58,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ManikandanMohanS/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ManikandanMohanS/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ManikandanMohanS/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManikandanMohanS/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -536,6 +537,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ManikandanMohanS/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ManikandanMohanS/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ManikandanMohanS/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ManikandanMohanS/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/ManikandanMohanS/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -565,6 +567,7 @@
 | [0940-fruit-into-baskets](https://github.com/ManikandanMohanS/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManikandanMohanS/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ManikandanMohanS/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManikandanMohanS/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ManikandanMohanS/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ManikandanMohanS/leetcode/tree/master/2478-longest-nice-subarray) |
