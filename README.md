@@ -266,6 +266,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManikandanMohanS/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ManikandanMohanS/leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ManikandanMohanS/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ManikandanMohanS/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -395,6 +396,7 @@
 | [0011-container-with-most-water](https://github.com/ManikandanMohanS/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ManikandanMohanS/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ManikandanMohanS/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0088-merge-sorted-array) |
@@ -626,6 +628,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ManikandanMohanS/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Counting Sort
 |  |
