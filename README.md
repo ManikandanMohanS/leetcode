@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ManikandanMohanS/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ManikandanMohanS/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ManikandanMohanS/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ManikandanMohanS/leetcode/tree/master/0056-merge-intervals) |
@@ -271,6 +272,7 @@
 | [0013-roman-to-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ManikandanMohanS/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ManikandanMohanS/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ManikandanMohanS/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ManikandanMohanS/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -455,6 +457,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManikandanMohanS/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ManikandanMohanS/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ManikandanMohanS/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ManikandanMohanS/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0202-happy-number) |
@@ -502,6 +505,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ManikandanMohanS/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ManikandanMohanS/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ManikandanMohanS/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0088-merge-sorted-array) |
