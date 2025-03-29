@@ -108,6 +108,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/ManikandanMohanS/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ManikandanMohanS/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ManikandanMohanS/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3226-minimum-number-game](https://github.com/ManikandanMohanS/leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/ManikandanMohanS/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ManikandanMohanS/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -130,6 +131,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ManikandanMohanS/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/ManikandanMohanS/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/ManikandanMohanS/leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ManikandanMohanS/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ManikandanMohanS/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -219,6 +222,7 @@
 | [2491-smallest-even-multiple](https://github.com/ManikandanMohanS/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ManikandanMohanS/leetcode/tree/master/2507-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ManikandanMohanS/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -325,6 +329,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Brainteaser
 |  |
 | ------- |
@@ -537,6 +542,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ManikandanMohanS/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ManikandanMohanS/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ManikandanMohanS/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3226-minimum-number-game](https://github.com/ManikandanMohanS/leetcode/tree/master/3226-minimum-number-game) |
 | [3430-count-days-without-meetings](https://github.com/ManikandanMohanS/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ManikandanMohanS/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -645,6 +651,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManikandanMohanS/leetcode/tree/master/0042-trapping-rain-water) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Database
 |  |
 | ------- |
