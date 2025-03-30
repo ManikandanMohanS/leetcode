@@ -127,6 +127,7 @@
 | [0135-candy](https://github.com/ManikandanMohanS/leetcode/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/ManikandanMohanS/leetcode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ManikandanMohanS/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -301,6 +302,7 @@
 | [0567-permutation-in-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/ManikandanMohanS/leetcode/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/ManikandanMohanS/leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/ManikandanMohanS/leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0837-most-common-word) |
 | [0965-unique-email-addresses](https://github.com/ManikandanMohanS/leetcode/tree/master/0965-unique-email-addresses) |
@@ -433,6 +435,7 @@
 | [0567-permutation-in-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/ManikandanMohanS/leetcode/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/ManikandanMohanS/leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/ManikandanMohanS/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ManikandanMohanS/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -489,6 +492,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ManikandanMohanS/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/ManikandanMohanS/leetcode/tree/master/0575-distribute-candies) |
+| [0768-partition-labels](https://github.com/ManikandanMohanS/leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/ManikandanMohanS/leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/ManikandanMohanS/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ManikandanMohanS/leetcode/tree/master/0817-design-hashmap) |
