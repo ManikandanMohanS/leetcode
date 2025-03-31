@@ -102,6 +102,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ManikandanMohanS/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/ManikandanMohanS/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/ManikandanMohanS/leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ManikandanMohanS/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/ManikandanMohanS/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -132,6 +133,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ManikandanMohanS/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2681-put-marbles-in-bags](https://github.com/ManikandanMohanS/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Math
 |  |
@@ -544,6 +546,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ManikandanMohanS/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/ManikandanMohanS/leetcode/tree/master/2502-sort-the-people) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ManikandanMohanS/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/ManikandanMohanS/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ManikandanMohanS/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ManikandanMohanS/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -570,6 +573,7 @@
 | [0239-sliding-window-maximum](https://github.com/ManikandanMohanS/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1127-last-stone-weight](https://github.com/ManikandanMohanS/leetcode/tree/master/1127-last-stone-weight) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ManikandanMohanS/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/ManikandanMohanS/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3226-minimum-number-game](https://github.com/ManikandanMohanS/leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
