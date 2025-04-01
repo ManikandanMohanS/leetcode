@@ -33,7 +33,7 @@ class Solution {
 
         for (String word : words) {
             final StringBuilder morseCode = new StringBuilder();
-            for (int i = 0, n = word.length(); i < n; i++) {
+            for (int i = 0; i < word.length(); i++) {
                 morseCode.append(morseCodes[word.charAt(i) - 'a']);
             }
             codes.add(morseCode.toString());
