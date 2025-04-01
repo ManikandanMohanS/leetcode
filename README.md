@@ -48,6 +48,7 @@
 | [0724-find-pivot-index](https://github.com/ManikandanMohanS/leetcode/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/ManikandanMohanS/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ManikandanMohanS/leetcode/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/ManikandanMohanS/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/ManikandanMohanS/leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/ManikandanMohanS/leetcode/tree/master/0890-lemonade-change) |
@@ -311,6 +312,7 @@
 | [0742-to-lower-case](https://github.com/ManikandanMohanS/leetcode/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/ManikandanMohanS/leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/ManikandanMohanS/leetcode/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/ManikandanMohanS/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0837-most-common-word) |
 | [0965-unique-email-addresses](https://github.com/ManikandanMohanS/leetcode/tree/master/0965-unique-email-addresses) |
 | [1205-defanging-an-ip-address](https://github.com/ManikandanMohanS/leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -508,6 +510,7 @@
 | [0782-jewels-and-stones](https://github.com/ManikandanMohanS/leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/ManikandanMohanS/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ManikandanMohanS/leetcode/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/ManikandanMohanS/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/ManikandanMohanS/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/ManikandanMohanS/leetcode/tree/master/0965-unique-email-addresses) |
