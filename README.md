@@ -21,6 +21,7 @@
 | [0066-plus-one](https://github.com/ManikandanMohanS/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ManikandanMohanS/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ManikandanMohanS/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ManikandanMohanS/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManikandanMohanS/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ManikandanMohanS/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -255,6 +256,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ManikandanMohanS/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ManikandanMohanS/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -290,6 +292,7 @@
 | [0039-combination-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ManikandanMohanS/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ManikandanMohanS/leetcode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/ManikandanMohanS/leetcode/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ManikandanMohanS/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
