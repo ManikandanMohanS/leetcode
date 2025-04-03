@@ -35,6 +35,7 @@
 | [0238-product-of-array-except-self](https://github.com/ManikandanMohanS/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ManikandanMohanS/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ManikandanMohanS/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ManikandanMohanS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -256,6 +257,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/ManikandanMohanS/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ManikandanMohanS/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ManikandanMohanS/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/ManikandanMohanS/leetcode/tree/master/0401-binary-watch) |
@@ -450,6 +452,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanMohanS/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ManikandanMohanS/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -479,6 +482,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanMohanS/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ManikandanMohanS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
