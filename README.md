@@ -38,6 +38,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ManikandanMohanS/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ManikandanMohanS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/ManikandanMohanS/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManikandanMohanS/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ManikandanMohanS/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -560,6 +561,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ManikandanMohanS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ManikandanMohanS/leetcode/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/ManikandanMohanS/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0941-sort-array-by-parity](https://github.com/ManikandanMohanS/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -745,4 +747,12 @@
 | ------- |
 | [0816-design-hashset](https://github.com/ManikandanMohanS/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ManikandanMohanS/leetcode/tree/master/0817-design-hashmap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/ManikandanMohanS/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/ManikandanMohanS/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
