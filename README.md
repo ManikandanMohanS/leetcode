@@ -48,6 +48,7 @@
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ManikandanMohanS/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ManikandanMohanS/leetcode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/ManikandanMohanS/leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/ManikandanMohanS/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ManikandanMohanS/leetcode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/ManikandanMohanS/leetcode/tree/master/0822-unique-morse-code-words) |
@@ -481,6 +482,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ManikandanMohanS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
+| [0792-binary-search](https://github.com/ManikandanMohanS/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ManikandanMohanS/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
