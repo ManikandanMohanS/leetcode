@@ -345,6 +345,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/ManikandanMohanS/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Brainteaser
 |  |
@@ -670,6 +671,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ManikandanMohanS/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ManikandanMohanS/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -725,6 +727,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ManikandanMohanS/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ManikandanMohanS/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/ManikandanMohanS/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ManikandanMohanS/leetcode/tree/master/0817-design-hashmap) |
