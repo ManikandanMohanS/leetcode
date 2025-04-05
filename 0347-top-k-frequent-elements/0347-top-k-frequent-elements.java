@@ -16,14 +16,17 @@ class Solution {
       bucket[frequency].add(key);
     }
 
-    List<Integer> topK = new ArrayList<>();
-    for (int pos = bucket.length - 1;pos >= 0 && topK.size() < k; pos--) {
+   int res[]=new int[k];
+   int counter =0;
+    for (int pos = bucket.length - 1;pos >= 0 && counter < k; pos--) {
       if (bucket[pos] != null) {
-        topK.addAll(bucket[pos]);
+        for(Integer integer :bucket[pos]){
+             res[counter++]=integer;
+        }
       }
     }
 
-    return topK.stream().mapToInt(i -> i).toArray();
+    return res;
 
   }
 
