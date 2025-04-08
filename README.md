@@ -394,6 +394,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ManikandanMohanS/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -408,6 +409,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ManikandanMohanS/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/ManikandanMohanS/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -437,6 +439,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ManikandanMohanS/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -744,6 +747,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManikandanMohanS/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ManikandanMohanS/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting Sort
 |  |
@@ -783,6 +787,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/ManikandanMohanS/leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ManikandanMohanS/leetcode/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
