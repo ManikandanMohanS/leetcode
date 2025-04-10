@@ -13,25 +13,20 @@
  *     }
  * }
  */
-class Solution {
+public class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
-        List<String> result = new ArrayList<>();
-        dfs(root, "", result);
-        return result;
-    }
-
-    private void dfs(TreeNode node, String path, List<String> result) {
-        if (node == null) return;
-        //Append the current node's value to the path.
-        path += node.val;
-
-        //If it's a leaf node, add the path to the result list.
-        if (node.left == null && node.right == null) {
-            result.add(path);
-        } else {
-            path += "->";// Separate nodes in the path.
-            dfs(node.left, path, result);
-            dfs(node.right, path, result);
+        List<String> sList=new LinkedList<String>();
+        if (root==null) return sList;
+        if (root.left==null && root.right==null) {
+            sList.add(Integer.toString(root.val));
+            return sList;
         }
+        for (String s: binaryTreePaths(root.left)) {
+            sList.add(Integer.toString(root.val)+"->"+s);
+        }
+        for (String s: binaryTreePaths(root.right)) {
+            sList.add(Integer.toString(root.val)+"->"+s);
+        }
+        return sList;
     }
 }
