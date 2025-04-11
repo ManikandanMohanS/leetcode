@@ -206,6 +206,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/ManikandanMohanS/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/ManikandanMohanS/leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ManikandanMohanS/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2998-count-symmetric-integers](https://github.com/ManikandanMohanS/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ManikandanMohanS/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3199-distribute-candies-among-children-i) |
@@ -700,6 +701,7 @@
 | [1656-count-good-triplets](https://github.com/ManikandanMohanS/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ManikandanMohanS/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2507-number-of-common-factors](https://github.com/ManikandanMohanS/leetcode/tree/master/2507-number-of-common-factors) |
+| [2998-count-symmetric-integers](https://github.com/ManikandanMohanS/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Sliding Window
