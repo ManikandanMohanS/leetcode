@@ -402,6 +402,7 @@
 | [0257-binary-tree-paths](https://github.com/ManikandanMohanS/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ManikandanMohanS/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -421,6 +422,7 @@
 | [0257-binary-tree-paths](https://github.com/ManikandanMohanS/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ManikandanMohanS/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
 | [2793-count-the-number-of-complete-components](https://github.com/ManikandanMohanS/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -434,6 +436,7 @@
 | [0112-path-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ManikandanMohanS/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0226-invert-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ManikandanMohanS/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ManikandanMohanS/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ManikandanMohanS/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -455,6 +458,7 @@
 | [0257-binary-tree-paths](https://github.com/ManikandanMohanS/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ManikandanMohanS/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Matrix
 |  |
@@ -832,5 +836,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ManikandanMohanS/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
