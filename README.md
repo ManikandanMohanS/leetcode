@@ -402,6 +402,7 @@
 | [0257-binary-tree-paths](https://github.com/ManikandanMohanS/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -420,6 +421,7 @@
 | [0257-binary-tree-paths](https://github.com/ManikandanMohanS/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
 | [2793-count-the-number-of-complete-components](https://github.com/ManikandanMohanS/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -453,6 +455,7 @@
 | [0257-binary-tree-paths](https://github.com/ManikandanMohanS/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -826,4 +829,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
