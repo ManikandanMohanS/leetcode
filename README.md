@@ -404,6 +404,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ManikandanMohanS/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/ManikandanMohanS/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -424,6 +425,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ManikandanMohanS/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/ManikandanMohanS/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [2793-count-the-number-of-complete-components](https://github.com/ManikandanMohanS/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -460,6 +462,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ManikandanMohanS/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/ManikandanMohanS/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Matrix
 |  |
 | ------- |
