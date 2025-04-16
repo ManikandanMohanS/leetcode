@@ -15,29 +15,28 @@
  */
 class Solution {
     public TreeNode bstFromPreorder(int[] preorder) {
-        TreeNode root= new TreeNode( preorder[0] );
-        
-        for(int i: preorder){
-            createTree(i, root);
+        if (preorder.length == 0) return null;
+
+        TreeNode root = new TreeNode(preorder[0]);
+
+        for (int i = 1; i < preorder.length; i++) {
+            insertIntoBST(root, preorder[i]);
         }
-        
+
         return root;
     }
-    
-    public TreeNode createTree(int i, TreeNode root){
-        if(root == null){
-            root= new TreeNode(i);
-            return root;
+
+    private TreeNode insertIntoBST(TreeNode node, int val) {
+        if (node == null) {
+            return new TreeNode(val);
         }
-        
-        if(root.val > i){
-            root.left= createTree(i, root.left);
+
+        if (val < node.val) {
+            node.left = insertIntoBST(node.left, val);
+        } else {
+            node.right = insertIntoBST(node.right, val);
         }
-        
-        if(root.val < i){
-            root.right= createTree(i, root.right);
-        }
-        
-        return root;
+
+        return node;
     }
 }
