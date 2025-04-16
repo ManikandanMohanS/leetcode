@@ -68,6 +68,7 @@
 | [0965-unique-email-addresses](https://github.com/ManikandanMohanS/leetcode/tree/master/0965-unique-email-addresses) |
 | [1031-add-to-array-form-of-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1127-last-stone-weight](https://github.com/ManikandanMohanS/leetcode/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ManikandanMohanS/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -377,6 +378,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/ManikandanMohanS/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Brainteaser
 |  |
@@ -418,6 +420,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ManikandanMohanS/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ManikandanMohanS/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
@@ -489,6 +492,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ManikandanMohanS/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ManikandanMohanS/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Matrix
@@ -790,6 +794,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ManikandanMohanS/leetcode/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ManikandanMohanS/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Database
 |  |
@@ -881,5 +886,6 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ManikandanMohanS/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/ManikandanMohanS/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ManikandanMohanS/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
