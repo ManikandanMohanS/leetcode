@@ -184,6 +184,7 @@
 | [0292-nim-game](https://github.com/ManikandanMohanS/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ManikandanMohanS/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManikandanMohanS/leetcode/tree/master/0342-power-of-four) |
+| [0400-nth-digit](https://github.com/ManikandanMohanS/leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/ManikandanMohanS/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ManikandanMohanS/leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1013-fibonacci-number) |
@@ -573,6 +574,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ManikandanMohanS/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0400-nth-digit](https://github.com/ManikandanMohanS/leetcode/tree/master/0400-nth-digit) |
 | [0611-valid-triangle-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/ManikandanMohanS/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
