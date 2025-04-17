@@ -1,13 +1,15 @@
 class Solution {
-   public int mySqrt(int x) {
-       int l=1;
-       int r=x;
-       while(l<=r){
-           int m=(r-l)/2+l;
-           if(m>x/m) r=m-1;
-           else if(m<x/m) l=m+1;
-           else return m;
-       }
-       return r;
-   }
+    public int mySqrt(int x) {
+        if (x == 0 || x == 1) return x;
+
+        int ans = 1;
+        for (int i = 1; i <= x / 2; i++) {
+            if (i <= x / i) {
+                ans = i;
+            } else {
+                break;
+            }
+        }
+        return ans;
+    }
 }
