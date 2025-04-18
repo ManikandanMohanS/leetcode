@@ -90,6 +90,7 @@
 | [1580-shuffle-the-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManikandanMohanS/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ManikandanMohanS/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ManikandanMohanS/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ManikandanMohanS/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/ManikandanMohanS/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -584,6 +585,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/ManikandanMohanS/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ManikandanMohanS/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManikandanMohanS/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ManikandanMohanS/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ManikandanMohanS/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
