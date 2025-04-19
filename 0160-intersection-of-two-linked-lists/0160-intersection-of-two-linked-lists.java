@@ -43,7 +43,7 @@ public class Solution {
       head = head.next;
     }
 
-    return len+1;
+    return len;
   }
 
 }
