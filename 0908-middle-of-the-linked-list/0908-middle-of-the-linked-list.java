@@ -10,30 +10,20 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode t=head;
-        int element=0;
-        while(t!=null){
-            t=t.next;
+        ListNode t = head;
+        int element = 0;
+        
+        while (t != null) {
+            t = t.next;
             element++;
         }
-       // System.out.println(element);
-        if(element==0)
-          return head;
-       t=head;
-        if(element%2!=0){
-            int mid=(element/2)+1;
-
-               for(int i=1;i<mid;i++){
-                head=head.next;
-               }
+        
+        int mid = (element / 2); // No +1 needed if you start counting from 0
+        
+        for (int i = 0; i < mid; i++) {
+            head = head.next;
         }
-        else{
-           int mid=(element/2)+1;
-        for(int i=1;i<mid;i++){
-                head=head.next;
-               }
-
-        }
+        
         return head;
     }
 }
