@@ -19,7 +19,7 @@ class Solution {
 
     while (l1 != null || l2 != null) {
 
-      int sum = 0 + carry; 
+      int sum =  carry; 
 
       if (l1 != null) {    
         sum += l1.val;
@@ -31,7 +31,7 @@ class Solution {
         l2 = l2.next;
       }
   
-      carry = sum / 10;    // Get sum and carry
+      carry = sum / 10;    
       sum = sum % 10;
       ptr.next = new ListNode(sum);
       ptr = ptr.next;
