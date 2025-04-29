@@ -391,6 +391,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/ManikandanMohanS/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ManikandanMohanS/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ManikandanMohanS/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -881,6 +882,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ManikandanMohanS/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ManikandanMohanS/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ManikandanMohanS/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/ManikandanMohanS/leetcode/tree/master/0816-design-hashset) |
