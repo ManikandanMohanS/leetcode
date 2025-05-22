@@ -34,6 +34,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ManikandanMohanS/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ManikandanMohanS/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ManikandanMohanS/leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/ManikandanMohanS/leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/ManikandanMohanS/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanMohanS/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ManikandanMohanS/leetcode/tree/master/0169-majority-element) |
@@ -281,6 +282,7 @@
 | [0070-climbing-stairs](https://github.com/ManikandanMohanS/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ManikandanMohanS/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManikandanMohanS/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/ManikandanMohanS/leetcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/ManikandanMohanS/leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ManikandanMohanS/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ManikandanMohanS/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -347,6 +349,7 @@
 | [0049-group-anagrams](https://github.com/ManikandanMohanS/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ManikandanMohanS/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ManikandanMohanS/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/ManikandanMohanS/leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/ManikandanMohanS/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ManikandanMohanS/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ManikandanMohanS/leetcode/tree/master/0205-isomorphic-strings) |
@@ -630,6 +633,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ManikandanMohanS/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ManikandanMohanS/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ManikandanMohanS/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/ManikandanMohanS/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ManikandanMohanS/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManikandanMohanS/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -869,6 +873,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ManikandanMohanS/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ManikandanMohanS/leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/ManikandanMohanS/leetcode/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
@@ -937,6 +942,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ManikandanMohanS/leetcode/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
