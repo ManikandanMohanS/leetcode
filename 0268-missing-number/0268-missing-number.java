@@ -1,9 +1,9 @@
 class Solution {
     public int missingNumber(int[] nums) {
-      
+      /*
       int size=nums.length  + nums.length +1;
       int[] arr = new int[size];
-    int k=0;
+      int k=0;
        for(int i=0;i<nums.length+1;i++)
        {
      arr[k++]=i;
@@ -18,5 +18,12 @@ class Solution {
       xor=xor^arr[i];
        }
        return xor;
+       */
+       int n=nums.length;
+       int sum=(n*(n+1))/2;
+       for(int x : nums){
+        sum=sum-x;
+       }
+       return sum;
     }
 }
