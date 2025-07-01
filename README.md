@@ -141,6 +141,7 @@
 | [2690-house-robber-iv](https://github.com/ManikandanMohanS/leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ManikandanMohanS/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/ManikandanMohanS/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2727-number-of-senior-citizens](https://github.com/ManikandanMohanS/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ManikandanMohanS/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ManikandanMohanS/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ManikandanMohanS/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -392,6 +393,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ManikandanMohanS/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ManikandanMohanS/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/ManikandanMohanS/leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/ManikandanMohanS/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3567-convert-date-to-binary](https://github.com/ManikandanMohanS/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
