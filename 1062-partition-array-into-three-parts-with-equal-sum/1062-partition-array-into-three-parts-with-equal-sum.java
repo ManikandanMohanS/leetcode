@@ -18,11 +18,11 @@ class Solution {
                    sum=0;
             
                 if(equalCount==2 && i<arr.length-1 ){
-                   return true;}
-                   
-           }
-    }
-return false;
+                   return true;
+                   }
+             }
+        }
+     return false;
 
     }
 }
