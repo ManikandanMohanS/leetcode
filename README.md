@@ -401,6 +401,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ManikandanMohanS/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3567-convert-date-to-binary](https://github.com/ManikandanMohanS/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ManikandanMohanS/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -689,6 +690,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/ManikandanMohanS/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ManikandanMohanS/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ManikandanMohanS/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ManikandanMohanS/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -757,6 +759,7 @@
 | [1983-maximum-population-year](https://github.com/ManikandanMohanS/leetcode/tree/master/1983-maximum-population-year) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ManikandanMohanS/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ManikandanMohanS/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ManikandanMohanS/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
