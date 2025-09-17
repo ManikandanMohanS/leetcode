@@ -13,13 +13,12 @@ class Solution {
             }
             if (nums[i] < mini) {
                 ind_min = i;
-                mini = nums[i];
+                mini = nums[i]; 
             }
         }
 
         int x = Math.min(ind_max, ind_min);
         int y = Math.max(ind_max, ind_min);
-
         return Math.min(Math.min(y + 1, n - x), x + 1 + n - y);
     }
 }
